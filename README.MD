@@ -1,5 +1,7 @@
 # Список моих проектов
 ## Проекты попадающие под профиль фронтенда:
+### React-приложение, отображающее API на веб-странице в соответствии с макетом:  
+https://github.com/VasilichFadeev/Test_sdek  
 ### Программа с медианным фильтром 5x1 на (JS+React, паттерн MVC):
 https://github.com/VasilichFadeev/Median_filter_js
 ### Страница с разными типами html-тегов и набором стилей (HTML+CSS):
